@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DarkandNight" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#559F8D</item>
+
+        <!-- Customize your theme here. -->
+        <item name="bgc">@color/white</item>
+        <item name="txtC">@color/black</item>
+        <item name="txth">@color/black</item>
+        <item name="buttonC">@color/purple_700</item>
+    </style>
+    <style name="DarkTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#4ACF1D</item>
+
+        <!-- Customize your theme here. -->
+        <item name="bgc">@color/black</item>
+        <item name="txtC">@color/white</item>
+        <item name="txth">@color/white</item>
+        <item name="buttonC">@color/black</item>
+    </style>
+</resources>

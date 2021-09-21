@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="de">
+        <attr name="bgc" format="color" />
+        <attr name="txtC" format="color" />
+        <attr name="txth" format="color" />
+        <attr name="buttonC" format="color" />
+    </declare-styleable>
+</resources>
